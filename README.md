@@ -1,5 +1,5 @@
 # Conjunto-de-Datos-de-Accidentes-de-REINO-UNIDO-UK-
-Mediante este proyecto se va a predecir el índice de accidentalidad. 
+Mediante este proyecto se va a predecir el severidad de los accidentes. 
 
 ## Miembros del grupo
 
